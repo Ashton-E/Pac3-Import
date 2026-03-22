@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/arctic_nvgs/nvg_skull_lock_diffuse"
+	"$translucent" 1
+}
