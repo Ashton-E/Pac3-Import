@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Kuge\Private Military Contractor\Gear/goggleglass_col"
+	"$bumpmap"    "Kuge\Private Military Contractor\Gear/goggleglass_nml"
+	"$phong" "1"
+	"$nocull" "0"
+	"$phongexponent" "25"
+	"$phongalbedotint" "1"
+	"$phongboost" "0.30"
+	"$phongfresnelranges" "[5 7 8]"
+	"$lightwarptexture" "Kuge\Private Military Contractor/Clothes_wrp"
+	"$phongexponenttexture" "Kuge\Private Military Contractor\Gear/goggleglass_mask"
+	"$translucent" "1"
+	"$ambientocclusion" "0"
+}
